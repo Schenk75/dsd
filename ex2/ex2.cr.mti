@@ -1,0 +1,31 @@
+D:/coding/verilog/ex2/Encoder8x3.v {1 {vlog -work work -vopt D:/coding/verilog/ex2/Encoder8x3.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Encoder8x3
+
+Top level modules:
+	Encoder8x3
+
+} {} {}} D:/coding/verilog/ex2/tb_Encoder8x3.v {1 {vlog -work work -vopt D:/coding/verilog/ex2/tb_Encoder8x3.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module Encoder8x3
+-- Compiling module tb_Encoder8x3
+
+Top level modules:
+	tb_Encoder8x3
+
+} {} {}} E:/windows/desktop/verilog/ex2/Encoder8x3.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex2/Encoder8x3.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Encoder8x3
+
+Top level modules:
+	Encoder8x3
+
+} {} {}} E:/windows/desktop/verilog/ex2/tb_Encoder8x3.v {1 {vlog -work work -vopt -stats=none {E:\windows\desktop\verilog\ex2\tb_Encoder8x3.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Encoder8x3
+-- Compiling module tb_Encoder8x3
+
+Top level modules:
+	tb_Encoder8x3
+
+} {} {}}

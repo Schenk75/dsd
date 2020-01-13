@@ -1,0 +1,33 @@
+D:/coding/verilog/ex3/tb_mux2x1.v {1 {vlog -work work -vopt D:/coding/verilog/ex3/tb_mux2x1.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mux2x1
+-- Compiling module tb_mux2x1
+
+Top level modules:
+	tb_mux2x1
+
+} {} {}} D:/coding/verilog/ex3/mux4x1.v {1 {vlog -work work -vopt D:/coding/verilog/ex3/mux4x1.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mux2x1
+-- Compiling module mux4x1
+
+Top level modules:
+	mux4x1
+
+} {} {}} D:/coding/verilog/ex3/tb_mux4x1.v {1 {vlog -work work -vopt D:/coding/verilog/ex3/tb_mux4x1.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mux2x1
+-- Compiling module mux4x1
+-- Compiling module tb_mux4x1
+
+Top level modules:
+	tb_mux4x1
+
+} {} {}} D:/coding/verilog/ex3/mux2x1.v {1 {vlog -work work -vopt D:/coding/verilog/ex3/mux2x1.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mux2x1
+
+Top level modules:
+	mux2x1
+
+} {} {}}

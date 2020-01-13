@@ -1,0 +1,48 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/coding/verilog/ex10
+vcounter8b_updown
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 hS3^zP>U7eKgC6]1m<Oic3
+I2fW;ESfjoL`BM4JemaSd:2
+Z1 dE:/windows/desktop/verilog/ex11
+w1574580496
+8counter8b_updown.v
+Fcounter8b_updown.v
+L0 1
+Z2 OL;L;10.4;61
+Z3 !s108 1575884294.675000
+Z4 !s107 counter8b_updown.v|E:\windows\desktop\verilog\ex11\tb_counter8b_updown.v|
+Z5 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\windows\desktop\verilog\ex11\tb_counter8b_updown.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_counter8b_updown
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 1CnHdjgd8PPVV=P9?@3fd3
+Im2SC6K_Bi=KAjAkR^2JcZ2
+R1
+w1575884273
+8E:\windows\desktop\verilog\ex11\tb_counter8b_updown.v
+FE:\windows\desktop\verilog\ex11\tb_counter8b_updown.v
+L0 4
+R2
+R3
+R4
+R5
+!i113 0
+R6

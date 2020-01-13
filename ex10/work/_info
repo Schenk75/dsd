@@ -1,0 +1,57 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/coding/verilog/ex9
+T_opt
+!s110 1574578030
+V78Kz;f9g8I:cN^]nRP0ci0
+04 9 4 work tb_filter fast 0
+=1-70c94ee219fd-5dda276e-a6-2690
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+R0
+vfilter
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 8N5b9JR5a3L60lZl<YD_`2
+IB`_5A^H^DWg:k1d7H^Y[O1
+Z2 dE:/windows/desktop/verilog/ex10
+w1574576236
+8filter.v
+Ffilter.v
+L0 1
+Z3 OL;L;10.4;61
+Z4 !s108 1575883782.973000
+Z5 !s107 filter.v|E:\windows\desktop\verilog\ex10\tb_filter.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\windows\desktop\verilog\ex10\tb_filter.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_filter
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 aEIMH56hfTomoSo^V;?N43
+IAQc8_Ol:4B[>9bl[5<]E;0
+R2
+w1574579328
+8E:\windows\desktop\verilog\ex10\tb_filter.v
+FE:\windows\desktop\verilog\ex10\tb_filter.v
+L0 4
+R3
+R4
+R5
+R6
+!i113 0
+R7

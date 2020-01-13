@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/coding/verilog/ex5
+T_opt
+!s110 1574566109
+V5zeg3<K1oSj_CC6CDZ_4o2
+04 11 4 work tb_comb_str fast 0
+=1-70c94ee219fd-5dd9f8dd-50-1170
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+R0
+vcomb_str
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 gF4BB]VTmH64hMCV_6]YZ0
+IQHoo;@?FLo@>o=n52b[S60
+Z2 dD:/coding/verilog/test
+Z3 w1574566016
+Z4 8D:/coding/verilog/test/test.v
+Z5 FD:/coding/verilog/test/test.v
+L0 21
+Z6 OL;L;10.4;61
+Z7 !s108 1574566019.017000
+Z8 !s107 D:/coding/verilog/test/test.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/coding/verilog/test/test.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vones_count
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 A9]:ACK_Ul2G[VKHYU:Od3
+Iz]UJ>7:BdBzX_FRcBc3Jf0
+R2
+w1574658660
+8test.v
+Ftest.v
+L0 1
+R6
+Z11 !s108 1574658768.877000
+Z12 !s107 test.v|D:/coding/verilog/test/tb_test.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/coding/verilog/test/tb_test.v|
+!i113 0
+R10
+vtb_comb_str
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 @ljba=OoYQ3YDjkbVH=Xn1
+IEiXhj=[k`^>idQBRSB1`:3
+R2
+R3
+R4
+R5
+L0 2
+R6
+R7
+R8
+R9
+!i113 0
+R10
+vtb_ones_count
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ZgaQOF:T?^z?GmkCEkbez0
+Igz:<R3Nd`YjX2mSc7>[ZL1
+R2
+w1574658765
+8D:/coding/verilog/test/tb_test.v
+FD:/coding/verilog/test/tb_test.v
+L0 3
+R6
+R11
+R12
+R13
+!i113 0
+R10

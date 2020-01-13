@@ -1,0 +1,59 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/coding/verilog/ex11
+T_opt
+!s110 1574585086
+V5=K_R@YN@?5DHRj]]E_;42
+04 6 4 work tb_ALU fast 0
+=1-70c94ee219fd-5dda42fe-341-61b0
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4;61
+R0
+vALU
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 nKFXh03jVT1g4n2CYPYzA1
+IiI1Eo7Hdh8R96M[f3ofkH1
+Z2 dE:/windows/desktop/verilog/ex12
+w1575885587
+8ALU.v
+FALU.v
+L0 10
+Z3 OL;L;10.4;61
+Z4 !s108 1575885592.350000
+Z5 !s107 ALU.v|E:\windows\desktop\verilog\ex12\tb_ALU.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\windows\desktop\verilog\ex12\tb_ALU.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@l@u
+vtb_ALU
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 EFWEibLYCj=c90Y7C8Vl:2
+IG@]Re;:UXT79jIGk=cS^Z1
+R2
+w1575885551
+8E:\windows\desktop\verilog\ex12\tb_ALU.v
+FE:\windows\desktop\verilog\ex12\tb_ALU.v
+L0 4
+R3
+R4
+R5
+R6
+!i113 0
+R7
+ntb_@a@l@u

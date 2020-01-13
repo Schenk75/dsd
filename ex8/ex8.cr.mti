@@ -1,0 +1,31 @@
+D:/coding/verilog/ex8/comb_str.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex8/comb_str.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_str
+
+Top level modules:
+	comb_str
+
+} {} {}} E:/windows/desktop/verilog/ex8/comb_str.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex8/comb_str.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_str
+
+Top level modules:
+	comb_str
+
+} {} {}} D:/coding/verilog/ex8/tb_comb_str.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex8/tb_comb_str.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_str
+-- Compiling module tb_comb_str
+
+Top level modules:
+	tb_comb_str
+
+} {} {}} E:/windows/desktop/verilog/ex8/tb_comb_str.v {1 {vlog -work work -vopt -stats=none {E:\windows\desktop\verilog\ex8\tb_comb_str.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_str
+-- Compiling module tb_comb_str
+
+Top level modules:
+	tb_comb_str
+
+} {} {}}

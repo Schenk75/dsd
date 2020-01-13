@@ -1,0 +1,4 @@
+module comb_str(Y, A, B, C, D);
+  
+  
+endmodule

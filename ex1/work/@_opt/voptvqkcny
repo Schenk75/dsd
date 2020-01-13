@@ -1,0 +1,30 @@
+m255
+K3
+13
+cModel Technology
+dD:\software\modelsim\examples
+T_opt
+V9SY>ZIPcb5[4ocDG04MFg1
+04 7 4 work wavegen fast 0
+=1-70c94ee219fd-5dd63fc3-bc-163e4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+vwavegen
+IIhPCZa7XaiC[K`eO@>P5i0
+V0;9i_YV3ln3C2fPl7@GgC3
+dD:\coding\verilog\ex1
+w1574322102
+8D:/coding/verilog/ex1/wavegen.v
+FD:/coding/verilog/ex1/wavegen.v
+L0 3
+OL;L;10.1c;51
+r1
+31
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|D:/coding/verilog/ex1/wavegen.v|
+!i10b 1
+!s100 74GHoWz4[GCGiSO4[Sf9_0
+!s85 0
+!s108 1574322105.921000
+!s107 D:/coding/verilog/ex1/wavegen.v|

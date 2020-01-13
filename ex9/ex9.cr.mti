@@ -1,0 +1,31 @@
+E:/windows/desktop/verilog/ex9/LFSR.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex9/LFSR.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module LFSR
+
+Top level modules:
+	LFSR
+
+} {} {}} D:/coding/verilog/ex9/tb_LFSR.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex9/tb_LFSR.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module LFSR
+-- Compiling module tb_LFSR
+
+Top level modules:
+	tb_LFSR
+
+} {} {}} E:/windows/desktop/verilog/ex9/tb_LFSR.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex9/tb_LFSR.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module LFSR
+-- Compiling module tb_LFSR
+
+Top level modules:
+	tb_LFSR
+
+} {} {}} D:/coding/verilog/ex9/LFSR.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex9/LFSR.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module LFSR
+
+Top level modules:
+	LFSR
+
+} {} {}}

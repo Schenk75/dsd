@@ -1,0 +1,31 @@
+D:/coding/verilog/ex13/shift_counter.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex13/shift_counter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module shift_counter
+
+Top level modules:
+	shift_counter
+
+} {} {}} E:/windows/desktop/verilog/ex13/shift_counter.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex13/shift_counter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module shift_counter
+
+Top level modules:
+	shift_counter
+
+} {} {}} D:/coding/verilog/ex13/tb_shift_counter.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex13/tb_shift_counter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module shift_counter
+-- Compiling module tb_shift_counter
+
+Top level modules:
+	tb_shift_counter
+
+} {} {}} E:/windows/desktop/verilog/ex13/tb_shift_counter.v {1 {vlog -work work -vopt -stats=none {E:\windows\desktop\verilog\ex13\tb_shift_counter.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module shift_counter
+-- Compiling module tb_shift_counter
+
+Top level modules:
+	tb_shift_counter
+
+} {} {}}

@@ -1,0 +1,24 @@
+`timescale 10ns / 1ns
+`include "ones_count.v"
+
+module tb_ones_count();
+reg [7:0] dat_in;
+wire [3:0] count;
+
+ones_count o1 (count, dat_in);
+
+initial
+begin
+   dat_in = 8'b0;
+   while (dat_in <= 8'b1111_1111)
+   begin
+      dat_in = dat_in + 1;
+      #1;
+   end
+end
+
+initial #500 $stop;
+
+initial $monitor("time=%t, dat_in=%b, count=%b", $time, dat_in, count);
+
+endmodule

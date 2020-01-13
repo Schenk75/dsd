@@ -1,0 +1,23 @@
+E:/windows/desktop/verilog/ex6/tb_ones_count.v {1 {vlog -work work -vopt -stats=none {E:\windows\desktop\verilog\ex6\tb_ones_count.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ones_count
+-- Compiling module tb_ones_count
+
+Top level modules:
+	tb_ones_count
+
+} {} {}} D:/coding/verilog/ex6/ones_count.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex6/ones_count.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ones_count
+
+Top level modules:
+	ones_count
+
+} {} {}} E:/windows/desktop/verilog/ex6/ones_count.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex6/ones_count.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ones_count
+
+Top level modules:
+	ones_count
+
+} {} {}}

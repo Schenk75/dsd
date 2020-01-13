@@ -1,0 +1,18 @@
+module sram(dout, din, addr, wr, rd, cs);
+output reg [7:0] dout;
+input [7:0] din;
+input [7:0] addr;
+input wr, rd, cs;
+reg [7:0] store[0:255];
+
+always @ (posedge wr)
+begin 
+  if (cs) store[addr] <= din;
+end
+
+always @ (addr)
+begin 
+  if (cs && ~rd) dout <= store[addr];
+  else dout <= 8'b1111_1111;
+end
+endmodule

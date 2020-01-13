@@ -1,0 +1,16 @@
+E:/windows/desktop/verilog/ex11/counter8b_updown.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex11/counter8b_updown.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module counter8b_updown
+
+Top level modules:
+	counter8b_updown
+
+} {} {}} E:/windows/desktop/verilog/ex11/tb_counter8b_updown.v {1 {vlog -work work -vopt -stats=none {E:\windows\desktop\verilog\ex11\tb_counter8b_updown.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module counter8b_updown
+-- Compiling module tb_counter8b_updown
+
+Top level modules:
+	tb_counter8b_updown
+
+} {} {}}

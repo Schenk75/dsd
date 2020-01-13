@@ -1,0 +1,15 @@
+`timescale 10ns / 1ns
+
+module wavegen(output reg y);
+  initial
+  begin
+    y <= 1'b0;
+    #2 y <= ~y;
+    #1 y <= ~y;
+    #9 y <= ~y;
+    #10 y <= ~y;
+    #2 y <= ~y;
+    #3 y <= ~y;
+    #5 y <= ~y;
+  end
+endmodule

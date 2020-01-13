@@ -1,0 +1,31 @@
+D:/coding/verilog/ex7/dec_counter.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex7/dec_counter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dec_counter
+
+Top level modules:
+	dec_counter
+
+} {} {}} E:/windows/desktop/verilog/ex7/dec_counter.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex7/dec_counter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dec_counter
+
+Top level modules:
+	dec_counter
+
+} {} {}} D:/coding/verilog/ex7/tb_dec_counter.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex7/tb_dec_counter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dec_counter
+-- Compiling module tb_dec_counter
+
+Top level modules:
+	tb_dec_counter
+
+} {} {}} E:/windows/desktop/verilog/ex7/tb_dec_counter.v {1 {vlog -work work -vopt -stats=none {E:\windows\desktop\verilog\ex7\tb_dec_counter.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dec_counter
+-- Compiling module tb_dec_counter
+
+Top level modules:
+	tb_dec_counter
+
+} {} {}}

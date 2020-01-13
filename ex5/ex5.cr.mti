@@ -1,0 +1,61 @@
+E:/windows/desktop/verilog/ex5/comb_Y2.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex5/comb_Y2.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_Y2
+
+Top level modules:
+	comb_Y2
+
+} {} {}} E:/windows/desktop/verilog/ex5/tb_comb_Y1.v {1 {vlog -work work -vopt -stats=none {E:\windows\desktop\verilog\ex5\tb_comb_Y1.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_Y1
+-- Compiling module tb_comb_Y1
+
+Top level modules:
+	tb_comb_Y1
+
+} {} {}} D:/coding/verilog/ex5/tb_comb_Y2.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex5/tb_comb_Y2.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_Y2
+-- Compiling module tb_comb_Y2
+
+Top level modules:
+	tb_comb_Y2
+
+} {} {}} E:/windows/desktop/verilog/ex5/tb_comb_Y2.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex5/tb_comb_Y2.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_Y2
+-- Compiling module tb_comb_Y2
+
+Top level modules:
+	tb_comb_Y2
+
+} {} {}} D:/coding/verilog/ex5/comb_Y1.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex5/comb_Y1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_Y1
+
+Top level modules:
+	comb_Y1
+
+} {} {}} E:/windows/desktop/verilog/ex5/comb_Y1.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex5/comb_Y1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_Y1
+
+Top level modules:
+	comb_Y1
+
+} {} {}} D:/coding/verilog/ex5/tb_comb_Y1.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex5/tb_comb_Y1.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_Y1
+-- Compiling module tb_comb_Y1
+
+Top level modules:
+	tb_comb_Y1
+
+} {} {}} D:/coding/verilog/ex5/comb_Y2.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex5/comb_Y2.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_Y2
+
+Top level modules:
+	comb_Y2
+
+} {} {}}

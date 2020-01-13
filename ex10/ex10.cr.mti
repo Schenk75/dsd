@@ -1,0 +1,31 @@
+E:/windows/desktop/verilog/ex10/tb_filter.v {1 {vlog -work work -vopt -stats=none {E:\windows\desktop\verilog\ex10\tb_filter.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module filter
+-- Compiling module tb_filter
+
+Top level modules:
+	tb_filter
+
+} {} {}} D:/coding/verilog/ex10/filter.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex10/filter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module filter
+
+Top level modules:
+	filter
+
+} {} {}} E:/windows/desktop/verilog/ex10/filter.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex10/filter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module filter
+
+Top level modules:
+	filter
+
+} {} {}} D:/coding/verilog/ex10/tb_filter.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex10/tb_filter.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module filter
+-- Compiling module tb_filter
+
+Top level modules:
+	tb_filter
+
+} {} {}}

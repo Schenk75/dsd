@@ -1,0 +1,71 @@
+E:/windows/desktop/verilog/ex4/testbench_comb.v {1 {vlog -work work -vopt -stats=none {E:\windows\desktop\verilog\ex4\testbench_comb.v}
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_str
+-- Compiling module comb_dataflow
+-- Compiling module comb_behavior
+-- Compiling module comb_prim
+-- Compiling UDP comb_p
+-- Compiling module testbench_comb
+
+Top level modules:
+	testbench_comb
+
+} {} {}} E:/windows/desktop/verilog/ex4/comb_prim.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex4/comb_prim.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_prim
+-- Compiling UDP comb_p
+
+Top level modules:
+	comb_prim
+
+} {} {}} E:/windows/desktop/verilog/ex4/comb_behavior.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex4/comb_behavior.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_behavior
+
+Top level modules:
+	comb_behavior
+
+} {} {}} D:/coding/verilog/ex4/comb_str.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex4/comb_str.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_str
+
+Top level modules:
+	comb_str
+
+} {} {}} E:/windows/desktop/verilog/ex4/comb_str.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex4/comb_str.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_str
+
+Top level modules:
+	comb_str
+
+} {} {}} D:/coding/verilog/ex4/comb_dataflow.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex4/comb_dataflow.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_dataflow
+
+Top level modules:
+	comb_dataflow
+
+} {} {}} E:/windows/desktop/verilog/ex4/comb_dataflow.v {1 {vlog -work work -vopt -stats=none E:/windows/desktop/verilog/ex4/comb_dataflow.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_dataflow
+
+Top level modules:
+	comb_dataflow
+
+} {} {}} D:/coding/verilog/ex4/comb_prim.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex4/comb_prim.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_prim
+-- Compiling UDP comb_p
+
+Top level modules:
+	comb_prim
+
+} {} {}} D:/coding/verilog/ex4/comb_behavior.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/ex4/comb_behavior.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module comb_behavior
+
+Top level modules:
+	comb_behavior
+
+} {} {}}

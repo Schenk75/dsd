@@ -1,0 +1,16 @@
+D:/coding/verilog/test/test.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/test/test.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ones_count
+
+Top level modules:
+	ones_count
+
+} {} {}} D:/coding/verilog/test/tb_test.v {1 {vlog -work work -vopt -stats=none D:/coding/verilog/test/tb_test.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ones_count
+-- Compiling module tb_ones_count
+
+Top level modules:
+	tb_ones_count
+
+} {} {}}

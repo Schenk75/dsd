@@ -1,0 +1,146 @@
+m255
+K3
+z0
+13
+cModel Technology
+Z0 dD:\coding\verilog\ex3
+T_opt
+VgPkZ?U3PG_iaf?fhm_7cX3
+04 4 4 work test fast 0
+=1-70c94ee219fd-5dd8c272-383-18d4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+R0
+vcomb_behavior
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 cV68UbCPKgi?Gfl8b42iM0
+ITWkV1T=]F3mJ=8HT[B=h63
+Z2 dE:/windows/desktop/verilog/ex4
+w1574491940
+8comb_behavior.v
+Fcomb_behavior.v
+L0 1
+Z3 OL;L;10.4;61
+Z4 !s108 1575882213.384000
+Z5 !s107 comb_prim.v|comb_behavior.v|comb_dataflow.v|comb_str.v|E:\windows\desktop\verilog\ex4\testbench_comb.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\windows\desktop\verilog\ex4\testbench_comb.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vcomb_dataflow
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 VdbmYc[@5[h=Ea8HzYljK2
+IEdlIdE>C:4K70RfzmXlD`3
+R2
+w1574490888
+8comb_dataflow.v
+Fcomb_dataflow.v
+L0 1
+R3
+R4
+R5
+R6
+!i113 0
+R7
+Ucomb_p
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 `25mh_=aJzWMJ5Qk234dX1
+IbO33f13YBNm=Al2C>36@j3
+R2
+Z8 w1574520546
+Z9 8comb_prim.v
+Z10 Fcomb_prim.v
+L0 5
+R3
+R4
+R5
+R6
+!i113 0
+R7
+vcomb_prim
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 bG<76_n`kZ`e80Xk_^JZI3
+I;Ka0aGmdRAOzeiDjngUXK3
+R2
+R8
+R9
+R10
+L0 1
+R3
+R4
+R5
+R6
+!i113 0
+R7
+vcomb_str
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 oLUeS]z[Y`CAh20>9V]a:2
+IiYWomPLE[je4k^GLPGVa_0
+R2
+w1574487652
+8comb_str.v
+Fcomb_str.v
+L0 1
+R3
+R4
+R5
+R6
+!i113 0
+R7
+vtest
+Vk<3<[f=78GX=_HO53D;7>3
+r1
+31
+IFODIPmOjb:jM2ZR@G<OOX1
+dD:\coding\verilog\ex4
+w1574486560
+8D:/coding/verilog/ex4/test.v
+FD:/coding/verilog/ex4/test.v
+L0 1
+OL;L;10.1c;51
+R7
+!s100 iWhf9XGWQC05kfUN2J[i@3
+!s108 1574486562.603000
+!s107 D:/coding/verilog/ex4/test.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/coding/verilog/ex4/test.v|
+!s85 0
+!i10b 1
+vtestbench_comb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 ]I3Jk2gNlHn;<LlRjE2a<2
+IkWbV?HfP1cK5lgN6fdF801
+R2
+w1574520298
+8E:\windows\desktop\verilog\ex4\testbench_comb.v
+FE:\windows\desktop\verilog\ex4\testbench_comb.v
+L0 7
+R3
+R4
+R5
+R6
+!i113 0
+R7

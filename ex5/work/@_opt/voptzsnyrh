@@ -1,0 +1,90 @@
+m255
+K3
+13
+cModel Technology
+dD:\coding\verilog\ex4
+T_opt
+VCAiODJkoOW?QM2aZMTaBU2
+04 10 4 work tb_comb_Y1 fast 0
+=1-70c94ee219fd-5dd8f1fa-250-6254
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+vcomb_Y1
+IXh?N5_HkFLBSkWDzF9@d^3
+Va322Da2hjSIP`i:82B>NE0
+Z0 dD:\coding\verilog\ex5
+w1574497428
+Fcomb_Y1.v
+Z1 8D:/coding/verilog/ex5/tb_comb_Y1.v
+Z2 FD:/coding/verilog/ex5/tb_comb_Y1.v
+L0 1
+Z3 OL;L;10.1c;51
+r1
+31
+Z4 !s108 1574497663.163000
+Z5 !s107 comb_Y1.v|D:/coding/verilog/ex5/tb_comb_Y1.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|D:/coding/verilog/ex5/tb_comb_Y1.v|
+Z7 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+ncomb_@y1
+!s100 _JYk7DG9Ve5OJc^0G`oO73
+!i10b 1
+!s85 0
+vcomb_Y2
+V<m^PfCRh6]KXKVnOf6bfS0
+r1
+31
+IU16nM[9L9?EJ]]5@X2L1H0
+Z8 dD:\coding\verilog\ex5
+Z9 w1574497660
+Fcomb_Y2.v
+Z10 8D:/coding/verilog/ex5/tb_comb_Y2.v
+Z11 FD:/coding/verilog/ex5/tb_comb_Y2.v
+L0 1
+R3
+Z12 !s108 1574497663.325000
+Z13 !s107 comb_Y2.v|D:/coding/verilog/ex5/tb_comb_Y2.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|D:/coding/verilog/ex5/tb_comb_Y2.v|
+R7
+ncomb_@y2
+!s85 0
+!i10b 1
+!s100 hP=hGOiN2SHX?```SR;oe1
+vtb_comb_Y1
+IS3NaAhdXJ_n4n7>6BD;7E3
+VO5HfJNKF6d5NQQGjCm@S23
+R8
+w1574496948
+R1
+R2
+L0 4
+R3
+r1
+31
+R4
+R5
+R6
+R7
+ntb_comb_@y1
+!s100 SAF`EUZME]_Cz94Q@A@4O3
+!i10b 1
+!s85 0
+vtb_comb_Y2
+VK?Tb1X[UPh:OOJC05EOMW0
+r1
+31
+IU^2iKe^4I^PFJfAIUl24Z0
+R8
+R9
+R10
+R11
+L0 4
+R3
+R12
+R13
+R14
+R7
+ntb_comb_@y2
+!s85 0
+!i10b 1
+!s100 JnE=PZ=9mjf:C;3_`^CYj1
